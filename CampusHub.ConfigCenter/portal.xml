@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <Portal>
+    <CampusName>Main Campus</CampusName>
+    <Dean>Prof. Anna Sokolova</Dean>
+    <Building>Block A, 3rd Floor</Building>
+    <SupportEmail>portal-xml@campus.edu</SupportEmail>
+  </Portal>
+</configuration>

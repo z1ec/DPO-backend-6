@@ -1,0 +1,8 @@
+Custom:AppCode
+CAMPUSHUB-2025
+Custom:MaintenanceMode
+false
+Custom:MaxUploadSizeMb
+50
+Custom:SupportPhone
++7-800-555-01-01
